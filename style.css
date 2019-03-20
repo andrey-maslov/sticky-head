@@ -1,0 +1,21 @@
+.sticky-btn {
+    width: 170px;
+}
+.sticky-btn a, 
+.sticky-logo {
+    display: none;
+}
+
+.fixed-header .sticky-btn a,
+.fixed-header .sticky-logo {
+    display: block;
+}
+.fixed-header .sticky-logo {
+    width: 120px;
+}
+.fixed-header .logo-image {
+    margin-top: 0;
+}
+.fixed-header .nosticky-logo {
+    display: none;
+}
